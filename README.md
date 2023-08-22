@@ -1,2 +1,2 @@
 # charge_comparision_between_ecommerce_and_corier_company
-Cointab Data Analysis 
+Cointab Software Pvt. data Analysis 
